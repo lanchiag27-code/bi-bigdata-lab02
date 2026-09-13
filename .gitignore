@@ -1,0 +1,6 @@
+liquibase.properties
+liquibase.local.properties
+.env
+*.log
+.DS_Store
+Thumbs.db
