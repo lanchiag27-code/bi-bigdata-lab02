@@ -4,3 +4,5 @@ liquibase.local.properties
 *.log
 .DS_Store
 Thumbs.db
+
+lib/
