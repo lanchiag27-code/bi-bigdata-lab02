@@ -1,0 +1,19 @@
+# Credenciales locales
+liquibase.properties
+liquibase.local.properties
+.env
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos generados por Liquibase
+liquibase.json
+liquibase_libs/
+# Archivos locales de Liquibase
+liquibase.properties
+liquibase.local.properties
+liquibase.json
+liquibase_libs/
+lib/
